@@ -4,7 +4,7 @@
 
 # Tampilan Proxy Massal Via Windows 
 ![be](https://raw.githubusercontent.com/boychongzen18/ProxyAllPaket/master/proxy.jpg)
-# Tampilan Port Massal Via Wind#ows
+# Tampilan Port Massal Via Windows 
 # Eksekusi Terminal nmap -sV IP_Proxy
 ![be](https://raw.githubusercontent.com/boychongzen18/ProxyAllPaket/master/80.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/ProxyAllPaket/master/443.jpg)
