@@ -3,6 +3,7 @@
 # Author : Boychongzen aka Xroot
 
 # Tampilan Proxy Massal Via Windows 
+![be](https://raw.githubusercontent.com/boychongzen18/ProxyAllPaket/master/scanning.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/ProxyAllPaket/master/proxy.jpg)
 # Tampilan Port Massal Via Windows 
 # Eksekusi Terminal nmap -sV IP_Proxy
