@@ -67,3 +67,6 @@ My Github : https://github.com/boychongzen18
  IP Proxy : 99.86.116.118
  IP Proxy : 54.192.151.11
  
+new proxy
+103.241.204.100
+103.139.25.3
